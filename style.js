@@ -5,7 +5,7 @@ export default StyleSheet.create({
     flex: 1,
         paddingHorizontal: 24,
         marginTop: 40,
-        backgroundColor: "rgb(255, 68, 68)",
+        backgroundColor: "#24b5c6",
   },
   contatoView : {
     padding: 24,
@@ -53,7 +53,7 @@ export default StyleSheet.create({
     padding: 10,
     paddingLeft: 20,
     paddingRight: 20,
-    backgroundColor: "rgb(255, 68, 68)",
+    backgroundColor: "#24b5c6",
     alignItems: 'center'
   },
   detailsButtonText: {

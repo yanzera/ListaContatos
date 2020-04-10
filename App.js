@@ -3,7 +3,7 @@ import {Text, View, FlatList } from 'react-native';
 import styles from './style';
 
 import ContatoInput from './components/ContatoInput';
-import ContatoItem from './components/ContatoItem';
+//import ContatoItem from './components/ContatoItem';
 
 export default function App() {
   const [contatos, setContatos] = useState ([]);
